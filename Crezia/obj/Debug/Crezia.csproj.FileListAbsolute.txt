@@ -1,0 +1,15 @@
+C:\Users\63912\source\repos\Crezia\bin\Debug\Crezia.exe.config
+C:\Users\63912\source\repos\Crezia\bin\Debug\Crezia.exe
+C:\Users\63912\source\repos\Crezia\bin\Debug\Crezia.pdb
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.csproj.AssemblyReference.cache
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.csproj.SuggestedBindingRedirects.cache
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.Properties.Resources.resources
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.csproj.GenerateResource.cache
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.csproj.CoreCompileInputs.cache
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.exe
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.pdb
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.Form1.resources
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.Fees.resources
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.Student.resources
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.payment.resources
+C:\Users\63912\source\repos\Crezia\obj\Debug\Crezia.Login.resources
